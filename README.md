@@ -1,4 +1,4 @@
-# linkTree Backend Project 
+# Crypto Backend Project 
 
 ## Prerequisites  
 Before setting up the project, make sure you have the following installed:  
